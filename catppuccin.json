@@ -1,0 +1,72 @@
+{
+    "name": "Catppuccin",
+    "version": 2,
+    "color": {
+        "custom": {
+            "primary": "#1e2030",
+            "hover": "#363a4f",
+            "background": "#363a4f",
+            "border": "#8aadf4",
+            "link": "#6fa8dc"
+        },
+        "modern": {
+            "dark": true,
+            "interface": {
+                "primary": "#24273a",
+                "accent": "#363a4f",
+                "secondary": "#1e2030",
+                "input": "#494d64",
+                "border": "#8aadf4",
+                "highlight": "rgba(184, 134, 11, 0.2)",
+                "active": "#1e2030",
+                "grades": "#8bc34a",
+                "error": "#ed8796"
+            },
+            "calendar": [
+                "#457da5",
+                "#547c41",
+                "#926c37",
+                "#7c3d6b",
+                "#0b4c9c",
+                "#00209c",
+                "#004a09",
+                "#72721a",
+                "#44233e",
+                "#683131",
+                "#770a0a",
+                "#a72413",
+                "#e0024c",
+                "#188c16",
+                "#bd7304",
+                "#80168c",
+                "#164152",
+                "#00543f",
+                "#633e11",
+                "#461b2d",
+                "#00427c",
+                "#603073",
+                "#8b1941",
+                "#970c0c",
+                "#9c3b07",
+                "#685203",
+                "#2a5f16",
+                "#09584f",
+                "#005a75",
+                "#4d5557"
+            ],
+            "text": {
+                "primary": "#cad3f5",
+                "muted": "#72767d",
+                "contrast": "#eeeeee"
+            },
+            "options": {
+                "borderRadius": 5,
+                "borderSize": 1,
+                "padding": 10
+            }
+        }
+    },
+    "logo": {
+        "preset": "schoology_plus"
+    }
+}
