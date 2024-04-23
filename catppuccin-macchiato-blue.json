@@ -6,7 +6,7 @@
             "primary": "#1e2030",
             "hover": "#363a4f",
             "background": "#363a4f",
-            "border": "#494d64",
+            "border": "#5b6078",
             "link": "#6fa8dc"
         },
         "modern": {
@@ -16,7 +16,7 @@
                 "accent": "#363a4f",
                 "secondary": "#1e2030",
                 "input": "#494d64",
-                "border": "#494d64",
+                "border": "#5b6078",
                 "highlight": "rgba(184, 134, 11, 0.2)",
                 "active": "#1e2030",
                 "grades": "#8bc34a",
